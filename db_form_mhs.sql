@@ -45,8 +45,8 @@ CREATE TABLE `tb_daftar_beasiswa` (
 
 INSERT INTO `tb_daftar_beasiswa` (`id`, `nama_mhs`, `email`, `nomorhp`, `semester`, `ipk`, `beasiswa`, `berkas`, `status`) VALUES
 (43, 'Budi', 'budi123@gmail.com', '083153548080', '6', '3.3', 'Non-akademik', 'form disebel.png', 'belum di verifikasi'),
-(44, 'Rita Andia', 'ritaandia5200@gmail.com', '083154638800', '7', '3.4', 'Akademik', 'Sertifikat_RITA ANDIA_Junior Web Developer.pdf', 'belum di verifikasi'),
-(50, 'sai', 'sai001@gmail.com', '083154638800', '3', '3.2', 'Akademik', 'PRESENTASI VSGA.pdf', 'belum di verifikasi');
+(44, 'Rita Andia', 'ritaandia5200@gmail.com', '083154638800', '7', '3.4', 'Akademik', 'contoh_dokumen.pdf', 'belum di verifikasi'),
+(50, 'sai', 'sai001@gmail.com', '083154638800', '3', '3.2', 'Akademik', 'form disebel.png', 'belum di verifikasi');
 
 --
 -- Indexes for dumped tables
