@@ -1,9 +1,6 @@
 # andia1800.github.io
 Membuat Form Pendaftaran Beasiswa
------------------------------------------------
-Fitur
------------------------------------------------
-# 3 buah navtab yaitu:
+terdapat 3 buah tab navbar
 1.informasi beasiswa 
 2.form pendaftaran beasiswa
 - nama
